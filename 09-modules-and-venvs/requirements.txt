@@ -1,0 +1,5 @@
+# This project runs on the standard library alone, so no packages are required.
+# The line below is an example of how a real dependency would be pinned.
+# Generate this file for your own project with: pip freeze > requirements.txt
+#
+# requests==2.32.3
