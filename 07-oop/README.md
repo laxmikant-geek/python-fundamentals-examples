@@ -16,4 +16,6 @@ python shapes.py
 
 Both files run on Python 3.10+ with no external dependencies.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Object-Oriented Programming in Python](https://geeksarray.com/blog/python-fundamentals-object-oriented-programming)
+
+Part 7 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

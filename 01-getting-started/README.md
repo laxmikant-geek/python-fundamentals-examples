@@ -16,4 +16,6 @@ python greet.py
 
 Use `python3` instead of `python` on macOS/Linux if needed. Requires Python 3.10+.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Getting Started with Python: Install, Run, and Your First Program](https://geeksarray.com/blog/python-fundamentals-getting-started)
+
+Part 1 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

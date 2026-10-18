@@ -19,4 +19,6 @@ python calculator.py
 
 Requires Python 3.10+. No external dependencies.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Variables, Numbers, and Types in Python](https://geeksarray.com/blog/python-fundamentals-variables-and-types)
+
+Part 2 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

@@ -26,4 +26,4 @@ deactivate
 
 Use `python3` instead of `python` on macOS/Linux if needed. Requires Python 3.10+.
 
-Part of the Python Fundamentals series on GeeksArray.
+Part 9 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

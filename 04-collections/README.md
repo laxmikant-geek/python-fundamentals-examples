@@ -16,4 +16,6 @@ python word_count.py
 
 No external dependencies. Requires Python 3.10+.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Python Collections: Lists, Tuples, Sets, and Dictionaries](https://geeksarray.com/blog/python-fundamentals-collections)
+
+Part 4 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

@@ -28,4 +28,4 @@ pip install pytest
 pytest
 ```
 
-Part of the Python Fundamentals series on GeeksArray.
+Part 10 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

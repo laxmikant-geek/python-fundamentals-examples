@@ -1,7 +1,7 @@
 # Python Fundamentals — Examples
 
 Companion source code for the **Python Fundamentals** series on
-[GeeksArray](https://geeksarray.com). Each folder holds the runnable examples for one
+[GeeksArray](https://geeksarray.com) — [read the series](https://geeksarray.com/series/python-fundamentals). Each folder holds the runnable examples for one
 article in the series, so you can read a post and run the exact code alongside it.
 
 Everything here targets **Python 3.10+** and uses only the standard library
@@ -44,4 +44,4 @@ pytest
 ## About
 
 Written by the team at GeeksArray — *Connect · Develop · Succeed*.
-Read the full series at <https://geeksarray.com>.
+Read the full series at <https://geeksarray.com/series/python-fundamentals>.

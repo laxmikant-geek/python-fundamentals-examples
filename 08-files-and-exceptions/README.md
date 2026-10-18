@@ -23,4 +23,6 @@ python notes_app.py list
 
 Requires Python 3.10+. No external dependencies.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Files, Exceptions, and Context Managers in Python](https://geeksarray.com/blog/python-fundamentals-files-and-exceptions)
+
+Part 8 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

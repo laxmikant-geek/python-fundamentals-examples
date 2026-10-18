@@ -1,6 +1,6 @@
 # Functions in Python: Arguments, Return Values, and Scope
 
-Companion code for the GeeksArray article on Python functions.
+Companion code for the GeeksArray article [Functions in Python](https://geeksarray.com/blog/python-fundamentals-functions).
 
 ## What this demonstrates
 
@@ -19,4 +19,6 @@ python temperature.py
 
 Requires Python 3.10+.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Functions in Python: Arguments, Return Values, and Scope](https://geeksarray.com/blog/python-fundamentals-functions)
+
+Part 6 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).

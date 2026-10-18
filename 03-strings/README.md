@@ -16,4 +16,6 @@ python text_report.py
 
 Requires Python 3.10+. No external dependencies.
 
-Part of the Python Fundamentals series on GeeksArray.
+📖 **Read the article:** [Working with Strings and Text in Python](https://geeksarray.com/blog/python-fundamentals-working-with-strings)
+
+Part 3 of the [Python Fundamentals series](https://geeksarray.com/series/python-fundamentals) on [GeeksArray](https://geeksarray.com).
